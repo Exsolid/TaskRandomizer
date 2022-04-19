@@ -1,0 +1,5 @@
+D:\Repos\Uni\4\Projekt 3\TaskRandomizer\TaskRandomizer\bin\publish\Randomizer.exe
+D:\Repos\Uni\4\Projekt 3\TaskRandomizer\TaskRandomizer\bin\publish\Randomizer.dll
+D:\Repos\Uni\4\Projekt 3\TaskRandomizer\TaskRandomizer\bin\publish\Randomizer.deps.json
+D:\Repos\Uni\4\Projekt 3\TaskRandomizer\TaskRandomizer\bin\publish\Randomizer.runtimeconfig.json
+D:\Repos\Uni\4\Projekt 3\TaskRandomizer\TaskRandomizer\bin\publish\Randomizer.pdb
