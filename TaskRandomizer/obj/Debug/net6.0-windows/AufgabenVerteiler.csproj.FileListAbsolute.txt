@@ -1,0 +1,17 @@
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\AufgabenVerteiler.exe
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\AufgabenVerteiler.deps.json
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\AufgabenVerteiler.runtimeconfig.json
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\AufgabenVerteiler.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\ref\AufgabenVerteiler.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\AufgabenVerteiler.pdb
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.csproj.AssemblyReference.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.mainForm.resources
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.csproj.GenerateResource.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.AssemblyInfoInputs.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.AssemblyInfo.cs
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.csproj.CoreCompileInputs.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\ref\AufgabenVerteiler.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.pdb
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.genruntimeconfig.cache

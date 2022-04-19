@@ -1,0 +1,16 @@
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\TaskRandomizer.exe
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\TaskRandomizer.deps.json
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\TaskRandomizer.runtimeconfig.json
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\TaskRandomizer.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\ref\TaskRandomizer.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\bin\Debug\net6.0-windows\TaskRandomizer.pdb
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\AufgabenVerteiler.MainForm.resources
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.csproj.GenerateResource.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.AssemblyInfoInputs.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.AssemblyInfo.cs
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.csproj.CoreCompileInputs.cache
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\ref\TaskRandomizer.dll
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.pdb
+D:\Repos\Uni\4\Projekt 3\AufgabenVerteiler\AufgabenVerteiler\obj\Debug\net6.0-windows\TaskRandomizer.genruntimeconfig.cache
